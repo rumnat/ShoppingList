@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160226799866",
+    "firebase_url": "https://shopping-list-e6a7e.firebaseio.com",
+    "project_id": "shopping-list-e6a7e",
+    "storage_bucket": "shopping-list-e6a7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160226799866:android:bbc7f8e18f2798cdbdd943",
+        "android_client_info": {
+          "package_name": "com.rumnat.shoppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160226799866-o6m4mnq50of55jl7ccebo8i4edaqcied.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkzaicF3zbtFgzf72rSv-w7lfCHcR4cH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160226799866-0a47vhmgvmfkvk008lv0p7ud8aqisah0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "160226799866-5f35o9mmqqfo1eohfo0v2npraq6hn6jv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "shoppinglist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
