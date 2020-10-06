@@ -12,11 +12,11 @@ class ItemWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: EdgeInsets.symmetric(vertical: 16, horizontal: 16),
+      padding: EdgeInsets.symmetric(vertical: 8, horizontal: 8),
       child: Container(
         decoration: BoxDecoration(
             color: Color.fromRGBO(240, 240, 240, 1),
-            borderRadius: BorderRadius.circular(15.0)),
+            borderRadius: BorderRadius.circular(8.0)),
         child: ListTile(
           title: Text(StringUtils.capitalize(item.name.toLowerCase()),
               style: TextStyle(
